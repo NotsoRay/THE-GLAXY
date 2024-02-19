@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^9.4.1",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "moment": "^2.30.1",
+    "quick.db": "^9.1.7"
+  },
+  "name": "the-glaxy",
+  "description": "- yes its all in one file, i hate it.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
